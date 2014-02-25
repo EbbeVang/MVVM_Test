@@ -1,0 +1,1 @@
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\bin\Debug\WpfApplication.exe.config
