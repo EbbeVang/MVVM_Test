@@ -1,1 +1,13 @@
 c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\bin\Debug\WpfApplication.exe.config
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\MainWindow.baml
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\MainWindow.g.cs
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\App.g.cs
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication.g.resources
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\bin\Debug\WpfApplication.exe
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\bin\Debug\WpfApplication.pdb
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication.exe
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\WpfMVVMTutorial\WpfApplication\obj\Debug\WpfApplication.pdb

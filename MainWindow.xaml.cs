@@ -20,9 +20,12 @@ namespace WpfApplication
     /// </summary>
     public partial class MainWindow : Window
     {
+        private MainViewModel _vm = new MainViewModel();
+
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = _vm;
         }
     }
 }
